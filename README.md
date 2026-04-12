@@ -1,3 +1,18 @@
+**Deployment Note**
+This project uses backend technologies such as Node.js and cannot be fully deployed on GitHub Pages. To run the application, please follow the local setup instructions below.
+**How to Run Locally**
+Clone the repository
+Navigate to project folder
+Install dependencies
+npm install
+Start the server
+npm start
+Open browser at
+http://localhost:3000
+**🎯 Simple explanation**
+GitHub Pages = only frontend
+My project = frontend + backend
+👉 So it won’t run in Github pages
 Web Based Multilingual Voice Communication System
 **Overview**
 This academic project focuses on developing a web-based system that enables communication across multiple languages using voice input. The application processes user speech, converts it into text, translates it into the desired language, and provides the output in a user-friendly format. The system is designed to improve accessibility and facilitate communication between users speaking different languages.
